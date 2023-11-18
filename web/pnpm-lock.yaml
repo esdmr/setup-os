@@ -6,24 +6,24 @@ settings:
 
 dependencies:
   koa:
-    specifier: ^2.14.2
+    specifier: 2.14.2
     version: 2.14.2
   koa-send:
-    specifier: ^5.0.1
+    specifier: 5.0.1
     version: 5.0.1
 
 devDependencies:
   '@types/koa':
-    specifier: ^2.13.11
+    specifier: 2.13.11
     version: 2.13.11
   '@types/node':
-    specifier: ^18.18.9
+    specifier: 18.18.9
     version: 18.18.9
   webpack:
-    specifier: npm:ignoredep@^200.9999.0
+    specifier: npm:ignoredep@200.9999.0
     version: /ignoredep@200.9999.0
   xo:
-    specifier: ^0.56.0
+    specifier: 0.56.0
     version: 0.56.0(ignoredep@200.9999.0)
 
 packages:
