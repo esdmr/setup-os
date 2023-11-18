@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node backend.js"
+    },
+    "devDependencies": {
+        "@types/koa": "^2.13.11",
+        "@types/node": "^18.18.9",
+        "webpack": "npm:ignoredep@^200.9999.0",
+        "xo": "^0.56.0"
+    },
+    "dependencies": {
+        "koa": "^2.14.2",
+        "koa-send": "^5.0.1"
+    }
+}

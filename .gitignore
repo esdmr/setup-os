@@ -1,0 +1,8 @@
+.vscode
+data
+graph.*
+!graph.fish
+state
+tasks
+web/data
+web/node_modules
