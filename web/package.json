@@ -6,7 +6,7 @@
     },
     "devDependencies": {
         "@types/koa": "^2.13.11",
-        "@types/node": "^18.18.9",
+        "@types/node": "^18.19.8",
         "webpack": "npm:ignoredep@^200.9999.0",
         "xo": "^0.56.0"
     },
